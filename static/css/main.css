@@ -141,3 +141,11 @@ ul {
     list-style-type: disc;
     padding-left: 1.5rem;
 }
+
+blockquote {
+    border-left: 0.50rem solid #eee;
+    color: #999;
+    font-style: italic;
+    margin: 1rem 0;
+    padding-left: 1rem;
+  }
