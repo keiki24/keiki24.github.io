@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <description>このウェブサイトでは普段の生活で考えていることを公開しています。</description>
+        <link>https:&#x2f;&#x2f;keiki24.github.io</link>
+        <atom:link href="https:&#x2f;&#x2f;keiki24.github.io&#x2f;feed.xml" rel="self"/>
+        <title>cki.com</title>
+        <lastBuildDate>Sat, 09 Jul 2022 19:13:40 +0900</lastBuildDate>
+        
+        <item>
+            <title><![CDATA[習慣化]]></title>
+            <description><![CDATA[ここ数年ほどコードを書く機会が極端に減っている。]]></description>
+            <link>https:&#x2f;&#x2f;keiki24.github.io&#x2f;articles&#x2f;2022-06-23-habit</link>
+            <pubDate>Thu, 23 Jun 2022 09:00:00 +0900</pubDate>
+            <content:encoded><![CDATA[<p>ここ数年ほどコードを書く機会が極端に減っている。これではまずいと思い毎日少しづつでもコードを書いていこうという気になっている。継続するために
+<a href="https://www.amazon.co.jp/dp/B07YY2WV6K/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">アトミック・ハビット</a>という本を読んで書かれている事を実践している。物事を継続し習慣化するために良い事が書いてある。</p>
+<blockquote>
+<p>多くの人は、何を達成したいかを意識して習慣を変えようとする。これは結果ベースの習慣になりやすい。別の方法は、アイデンティティーベースの習慣を身につけることだ。この方法では、どのような人になりたいかに意識を向けて変化に着手する。</p>
+</blockquote>
+<blockquote>
+<p>本当の行動変化は、アイデンティティーの変化である。やる気があれば習慣を始められるかもしれないが、その習慣を続けられるのは、自分のアイデンティティーの一部になったときだけである。</p>
+</blockquote>
+<blockquote>
+<p>行動は、たいていアイデンティティーの反映だ。あなたがすることは、意識的であれ、無意識であれ、自分はこういうタイプの人間だと信じていることを示している。</p>
+</blockquote>
+<p>これまでは何かを継続するために目標を立ててそれだけのために、毎回目標のためにという気持ちでやる気を出そうとしていた。この本で書かれているアプローチは少し異なる。
+目標は立てるがそれだけで行動するのではなく、ベースとなるのはアイデンティティー、自分はこういう人なのだというセルフイメージを描くことだと書かれている。その習慣をすることが当たり前のように実践する。
+その他にも習慣を継続するためのヒントがたくさん与えられる。</p>
+<p>このおかげなのかここ2週間ほど、毎日早起きしてコーディングするというのを継続できている。</p>
+]]></content:encoded>
+            <guid>https:&#x2f;&#x2f;keiki24.github.io&#x2f;articles&#x2f;2022-06-23-habit</guid>
+        </item>
+        
+    </channel>
+</rss>
