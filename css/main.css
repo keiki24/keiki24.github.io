@@ -27,21 +27,27 @@ header nav p a:hover {
     color: #2c58f7;
 }
 
+img {
+    display: block;
+    max-width: 100%; 
+    margin: 0 0 0 auto;
+}
+
 .menu {
     display: table;
     text-align: left;
-    position: fixed;
     top: 0;
     left: 0;
     height: 100%;
     list-style-type: none;
-    margin: 5.0em 0 0 auto;
+    margin-right: auto;
     padding-left: 1.5em;
     background: #fdfdfd;
 }
 
 .menu li a {
     display:block;
+    flex-direction: column;
     width:5em;
     line-height:3em;
     color: #000000;
@@ -149,3 +155,39 @@ blockquote {
     margin: 1rem 0;
     padding-left: 1rem;
   }
+
+@media (max-width: 800px) {
+    html {
+     font-size: 3.0vw;
+    } 
+
+    .menu {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+
+    /* 記事のページ */
+    article {
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        width: 100%;
+        max-width: 100%;
+        background-color: #ffff;
+        margin: 0;
+        padding: 2rem;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        gap: 4vh;
+    }
+
+    .block-header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
