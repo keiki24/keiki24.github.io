@@ -7,7 +7,23 @@
         <link>https:&#x2f;&#x2f;keiki24.github.io</link>
         <atom:link href="https:&#x2f;&#x2f;keiki24.github.io&#x2f;feed.xml" rel="self"/>
         <title>cki.com</title>
-        <lastBuildDate>Sat, 29 Oct 2022 13:58:07 +0900</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 14:00:12 +0900</lastBuildDate>
+        
+        <item>
+            <title><![CDATA[コード埋め込み]]></title>
+            <description><![CDATA[ブログにソースコードを埋め込んで表示するためにCSSを修正した。]]></description>
+            <link>https:&#x2f;&#x2f;keiki24.github.io&#x2f;articles&#x2f;2022-10-29-code</link>
+            <pubDate>Sat, 29 Oct 2022 09:00:00 +0900</pubDate>
+            <content:encoded><![CDATA[<p>ブログにソースコードを埋め込んで表示するためにCSSを修正した。
+シンタックスハイライトには対応してない。いずれしていきたい。</p>
+<pre><code>fn main() {
+    println!(&quot;Hello World!&quot;);
+} 
+</code></pre>
+<p>これを機ににコードも書いていきたいが、平日は仕事から帰ってきて疲れ果て生産的なことがなにも出来ないでいる。</p>
+]]></content:encoded>
+            <guid>https:&#x2f;&#x2f;keiki24.github.io&#x2f;articles&#x2f;2022-10-29-code</guid>
+        </item>
         
         <item>
             <title><![CDATA[習慣化]]></title>
